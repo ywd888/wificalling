@@ -1,0 +1,32 @@
+# CSL
+IP-CIDR,120.88.224.5/32,no-resolve
+IP-CIDR,120.88.224.6/32,no-resolve
+IP-CIDR,120.88.240.5/32,no-resolve
+IP-CIDR,120.88.240.6/32,no-resolve
+DOMAIN,csl.prod.ondemandconnectivity.com
+DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+
+# CMHK
+IP-CIDR,182.239.86.0/24,no-resolve
+IP-CIDR,182.239.118.0/24,no-resolve
+IP-CIDR,203.142.127.0/24,no-resolve
+DOMAIN-SUFFIX,hk.chinamobile.com
+DOMAIN,h3a.prod.ondemandconnectivity.com
+DOMAIN,epdg.epc.mnc012.mcc454.pub.3gppnetwork.org
+DOMAIN,xcap.ims.mnc012.mcc454.pub.3gppnetwork.org
+DOMAIN,bsf.mnc012.mcc454.pub.3gppnetwork.org
+
+# 3 HK
+IP-CIDR,4.209.41.157/32,no-resolve
+IP-CIDR,124.217.186.49/32,no-resolve
+IP-CIDR,203.145.92.49/32,no-resolve
+DOMAIN-SUFFIX,three.com.hk
+DOMAIN,hhk.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,mnc003.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc454.pub.3gppnetwork.org
+
+
