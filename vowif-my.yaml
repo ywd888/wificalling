@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,ims.xox.com.my
+DOMAIN,epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.mnc019.mcc502.pub.3gppnetwork.org
+IP-CIDR,115.164.0.0/16,VoWiFimy
+IP-CIDR,115.164.160.0/24,VoWiFimy
+DOMAIN-SUFFIX,weconnect.globe.com.ph
+DOMAIN-SUFFIX,ims.globe.com.ph
+DOMAIN-SUFFIX,epdg.globe.com.ph
+DOMAIN-SUFFIX,sip.globe.com.ph
+DOMAIN-SUFFIX,voip.globe.com.ph
